@@ -101,7 +101,7 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#de9190;
+	color:#663333;
 }
 
 button,
@@ -230,7 +230,7 @@ img{
 	right:15px;
 	width:40px;
 	height:40px;
-	color:#de9190;
+	color:#663333;
 	font-size:13px;
 	text-transform:uppercase;
 	line-height:38px;
@@ -250,7 +250,7 @@ img{
 
 .scroll-to-top:hover{
 	color:#ffffff;
-	background:#de9190;
+	background:#663333;
 }
 
 /* List Style One */
@@ -273,7 +273,7 @@ img{
 	position:absolute;
 	left:0px;
 	top:5px;
-	color:#de9190;
+	color:#663333;
 	font-size:18px;
 	line-height:1em;
 	font-weight:300;
@@ -305,7 +305,7 @@ img{
 	content: "\f15d";
 	left:0px;
 	top:5px;
-	color:#f7a392;
+	color:#663333;
 	font-size:16px;
 	line-height:1em;
 	font-family: "Flaticon";
@@ -328,7 +328,7 @@ img{
 	overflow:hidden;
 	overflow: hidden;
 	border-radius: 50px;
-	background-color:#de9190;
+	background-color:#663333;
 	padding:7px 35px 6px 7px;
 	text-transform: capitalize;
 	font-family: var(--poppins);
@@ -353,7 +353,7 @@ img{
 
 .btn-style-one:hover{
 	color: #ffffff;
-	background-color:#91ad41;
+	background-color:#45B653;
 }
 
 /* Btn Style Two */
@@ -367,7 +367,7 @@ img{
 	overflow:hidden;
 	overflow: hidden;
 	border-radius: 50px;
-	border:1px solid #de9190;
+	border:1px solid #663333;
 	padding:7px 35px 5px 7px;
 	text-transform: capitalize;
 	font-family: var(--poppins);
@@ -387,7 +387,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	transition:all 300ms ease;
-	background:#de9190 url(../images/icons/btn-icon-1.png) no-repeat;
+	background:#663333 url(../images/icons/btn-icon-1.png) no-repeat;
 }
 
 .btn-style-two:hover .icon{
@@ -396,7 +396,7 @@ img{
 
 .btn-style-two:hover{
 	color: #ffffff;
-	background-color:#de9190;
+	background-color:#663333;
 }
 
 /* Btn Style Three */
@@ -405,7 +405,7 @@ img{
 	display: inline-block;
 	font-size: 16px;
 	line-height: 50px;
-	color: #de9190;
+	color: #663333;
 	padding: 11px 30px;
 	font-weight: 500;
 	overflow:hidden;
@@ -431,7 +431,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	transition:all 300ms ease;
-	background:#de9190 url(../images/icons/btn-icon-1.png) no-repeat;
+	background:#663333 url(../images/icons/btn-icon-1.png) no-repeat;
 }
 
 .btn-style-three:hover .icon{
@@ -440,7 +440,7 @@ img{
 
 .btn-style-three:hover{
 	color: #ffffff;
-	background-color:#de9190;
+	background-color:#663333;
 }
 
 /* Btn Style Four */
@@ -469,7 +469,7 @@ img{
 	border-radius:50%;
 	text-align:center;
 	float:left;
-	color:#f7a392;
+	color:#663333;
 	margin-right:22px;
 	-webkit-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
@@ -485,7 +485,7 @@ img{
 
 .btn-style-four:hover{
 	color: #ffffff;
-	background-color:#de9190;
+	background-color:#663333;
 }
 
 /* Social Icon One */
@@ -531,11 +531,11 @@ img{
 }
 
 .social-icon-one li a:hover{
-	color: #de9190;
+	color: #663333;
 }
 
 .theme_color{
-	color:#de9190;
+	color:#663333;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/preloader.svg); background-size:100px; }
@@ -620,7 +620,7 @@ img{
 
 .sec-title-two .title{
 	position:relative;
-	color:#de9190;
+	color:#663333;
 	font-size:18px;
 	font-weight:400;
 	letter-spacing:2px;
