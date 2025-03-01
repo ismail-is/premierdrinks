@@ -20,7 +20,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu, handleS
 				</div>
 				
 				<div className="nav-outer clearfix">
-					<div className="mobile-nav-toggler"><span className="icon flaticon-menu" onClick={handleMobileMenu}></span></div>
+					<div className="mobile-nav-toggler"><span className="icon flaticon-menu" onClick={handleMobileMenu} ></span></div>
 					{/* Main Menu */}
 					<nav className="main-menu navbar-expand-md">
 					<Menu />
@@ -54,9 +54,9 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu, handleS
 					
 
 					<div className="outer-box clearfix">
-
+					{/* <div className="mobile-nav-toggler"><span className="icon flaticon-menu" onClick={handleMobileMenu} style={{color:'black'}}></span></div> */}
 						{/* <div className="search-box-btn search-box-outer"><span className="icon fa fa-search" onClick={handlePopup}></span></div> */}
-						{/* <div className="nav-btn navSidebar-button"><span className="icon flaticon-menu-2" onClick={handleSidebar}></span></div> */}
+						<div className="nav-btn navSidebar-button"><span className="icon flaticon-menu-2" onClick={handleMobileMenu} style={{color:'black'}}></span></div>
 						
 					</div>
 					
