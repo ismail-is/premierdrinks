@@ -16,25 +16,25 @@
       "static/chunks/main-app.js",
       "static/chunks/app/loading.js"
     ],
-    "/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/page.js"
-    ],
     "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
-    "/milkshake/page": [
+    "/contact/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/milkshake/page.js"
+      "static/chunks/app/contact/page.js"
     ],
     "/menu/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/menu/page.js"
+    ],
+    "/milkshake/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/milkshake/page.js"
     ]
   }
 }

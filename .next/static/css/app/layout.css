@@ -5577,8 +5577,7 @@ animation2{
 }
 
 @font-face {
-	font-family: '--poppins';
-	/* font-family: 'LillyBelle'; */
+	font-family: 'LillyBelle';
 	src: 
 		 url(/_next/static/media/LillyBelle.a3b27415.woff) format("woff"),
 		 url(/_next/static/media/LillyBelle.05eebf58.ttf) format("truetype");
@@ -5612,7 +5611,7 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#663333;
+	color:#de9190;
 }
 
 button,
@@ -5741,7 +5740,7 @@ img{
 	right:15px;
 	width:40px;
 	height:40px;
-	color:#663333;
+	color:#de9190;
 	font-size:13px;
 	text-transform:uppercase;
 	line-height:38px;
@@ -5757,7 +5756,7 @@ img{
 
 .scroll-to-top:hover{
 	color:#ffffff;
-	background:#663333;
+	background:#de9190;
 }
 
 /* List Style One */
@@ -5780,7 +5779,7 @@ img{
 	position:absolute;
 	left:0px;
 	top:5px;
-	color:#663333;
+	color:#de9190;
 	font-size:18px;
 	line-height:1em;
 	font-weight:300;
@@ -5808,7 +5807,7 @@ img{
 	content: "\f15d";
 	left:0px;
 	top:5px;
-	color:#663333;
+	color:#f7a392;
 	font-size:16px;
 	line-height:1em;
 	font-family: "Flaticon";
@@ -5827,7 +5826,7 @@ img{
 	overflow:hidden;
 	overflow: hidden;
 	border-radius: 50px;
-	background-color:#663333;
+	background-color:#de9190;
 	padding:7px 35px 6px 7px;
 	text-transform: capitalize;
 	font-family: var(--poppins);
@@ -5848,7 +5847,7 @@ img{
 
 .btn-style-one:hover{
 	color: #ffffff;
-	background-color:#45B653;
+	background-color:#91ad41;
 }
 
 /* Btn Style Two */
@@ -5862,7 +5861,7 @@ img{
 	overflow:hidden;
 	overflow: hidden;
 	border-radius: 50px;
-	border:1px solid #663333;
+	border:1px solid #de9190;
 	padding:7px 35px 5px 7px;
 	text-transform: capitalize;
 	font-family: var(--poppins);
@@ -5878,7 +5877,7 @@ img{
 	float:left;
 	margin-right:22px;
 	transition:all 300ms ease;
-	background:#663333 url(/_next/static/media/btn-icon-1.772ebc26.png) no-repeat;
+	background:#de9190 url(/_next/static/media/btn-icon-1.772ebc26.png) no-repeat;
 }
 
 .btn-style-two:hover .icon{
@@ -5887,7 +5886,7 @@ img{
 
 .btn-style-two:hover{
 	color: #ffffff;
-	background-color:#663333;
+	background-color:#de9190;
 }
 
 /* Btn Style Three */
@@ -5896,7 +5895,7 @@ img{
 	display: inline-block;
 	font-size: 16px;
 	line-height: 50px;
-	color: #663333;
+	color: #de9190;
 	padding: 11px 30px;
 	font-weight: 500;
 	overflow:hidden;
@@ -5918,7 +5917,7 @@ img{
 	float:left;
 	margin-right:22px;
 	transition:all 300ms ease;
-	background:#663333 url(/_next/static/media/btn-icon-1.772ebc26.png) no-repeat;
+	background:#de9190 url(/_next/static/media/btn-icon-1.772ebc26.png) no-repeat;
 }
 
 .btn-style-three:hover .icon{
@@ -5927,7 +5926,7 @@ img{
 
 .btn-style-three:hover{
 	color: #ffffff;
-	background-color:#663333;
+	background-color:#de9190;
 }
 
 /* Btn Style Four */
@@ -5956,7 +5955,7 @@ img{
 	border-radius:50%;
 	text-align:center;
 	float:left;
-	color:#663333;
+	color:#f7a392;
 	margin-right:22px;
 	transition:all 300ms ease;
 	background-color:#f5f5f5;
@@ -5968,7 +5967,7 @@ img{
 
 .btn-style-four:hover{
 	color: #ffffff;
-	background-color:#663333;
+	background-color:#de9190;
 }
 
 /* Social Icon One */
@@ -6010,11 +6009,11 @@ img{
 }
 
 .social-icon-one li a:hover{
-	color: #663333;
+	color: #de9190;
 }
 
 .theme_color{
-	color:#663333;
+	color:#de9190;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(/_next/static/media/preloader.3a687469.svg); background-size:100px; }
@@ -6099,7 +6098,7 @@ img{
 
 .sec-title-two .title{
 	position:relative;
-	color:#663333;
+	color:#de9190;
 	font-size:18px;
 	font-weight:400;
 	letter-spacing:2px;
@@ -16043,7 +16042,7 @@ button.swiper-pagination-bullet {
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }@font-face {font-family: '__Niconne_Fallback_5dc2b7';src: local("Arial");ascent-override: 126.17%;descent-override: 38.89%;line-gap-override: 0.00%;size-adjust: 73.45%
 }.__className_5dc2b7 {font-family: '__Niconne_5dc2b7', '__Niconne_Fallback_5dc2b7';font-weight: 400;font-style: normal
-}.__variable_5dc2b7 {--Poppins: '__Niconne_5dc2b7', '__Niconne_Fallback_5dc2b7'
+}.__variable_5dc2b7 {--niconne: '__Niconne_5dc2b7', '__Niconne_Fallback_5dc2b7'
 }
 
 /*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
