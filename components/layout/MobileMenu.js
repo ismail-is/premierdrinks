@@ -31,7 +31,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                 <div className="close-btn" onClick={handleMobileMenu}><span className="icon flaticon-multiply"></span></div>
                 
                 <nav className="menu-box">
-                    <div className="nav-logo"><Link href="/"><img src="assets/images/logo-2.png" alt="" title="" /></Link></div>
+                    <div className="nav-logo"><Link href="/"><img src="./assets/images/allimg/logo/logo.png" alt="logo" title="premierdrinks"  style={{height:'70px'}}/></Link></div>
                     <div className="menu-outer">
                         <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul className="navigation">
@@ -82,12 +82,12 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                              <li>
                     <Link href=""> Home</Link>
                 </li>
-                             <li>
+                             {/* <li>
                     <Link href="about"> About</Link>
                 </li>
                              <li>
                     <Link href="products"> Products</Link>
-                </li>
+                </li> */}
                 <li>
                     <Link href="contact">Contact</Link>
                 </li>

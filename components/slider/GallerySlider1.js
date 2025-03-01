@@ -115,23 +115,7 @@ export default function AwardSlider1() {
                         </div>
                         </SwiperSlide>
                         {/* Gallery Block */}
-                        <SwiperSlide>
-                        <div className="gallery-block">
-                            <div className="inner-box">
-                                <figure className="image-box">
-                                    <img src="assets/images/gallery/3.jpg" alt=""/>
-                                    {/* Overlay Box */}
-                                    <div className="overlay-box">
-                                        <div className="overlay-inner">
-                                            <div className="content">
-                                                <a href="assets/images/gallery/3.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </figure>
-                            </div>
-                        </div>
-                        </SwiperSlide>
+                       
                         {/* Gallery Block */}
                         <SwiperSlide>
                         <div className="gallery-block">

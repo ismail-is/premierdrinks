@@ -12,7 +12,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu, handleS
 	<header className={`main-header header-style-one ${scroll ? "fixed-header" : ""}`}>
     	
 		{/* Header Upper */}
-        <div className="header-upper">
+        <div className="header-upper" style={{backgroundColor:"white",marginTop:'-20px'}}>
         	<div className="auto-container clearfix">
             	
 				<div className="pull-left logo-box">
@@ -20,7 +20,6 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu, handleS
 				</div>
 				
 				<div className="nav-outer clearfix">
-					{/*Mobile Navigation Toggler*/}
 					<div className="mobile-nav-toggler"><span className="icon flaticon-menu" onClick={handleMobileMenu}></span></div>
 					{/* Main Menu */}
 					<nav className="main-menu navbar-expand-md">

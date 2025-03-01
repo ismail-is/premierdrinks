@@ -7,9 +7,9 @@ export default function Menu() {
 
     return (
         <>
-            <ul className="navigation">
-                <li className="dropdown">
-                    <Link href="/">Home </Link>
+            <ul className="navigation" >
+                <li className="dropdown" >
+                    <Link href="/" style={{color:'#663333'}}>Home </Link>
                     {/* <ul>
                         <li><Link href="/">Home One</Link></li>
                         <li><Link href="index-2">Home Two</Link></li>
@@ -52,7 +52,7 @@ export default function Menu() {
                     <Link href="products"> Products</Link>
                 </li> */}
                 <li>
-                    <Link href="contact">Contact</Link>
+                    <Link href="contact" style={{color:'#663333'}}>Contact</Link>
                 </li>
             </ul>
         </>
