@@ -54,7 +54,7 @@ export default function Banner() {
                                     <div className="text">Bursting with real fruit goodness, our juices are pure, natural, and refreshing—no preservatives, just fresh taste! Stay cool, stay healthy!
                                     </div>
                                     <div className="btns-box">
-                                        <Link href="contact" className="theme-btn btn-style-one clearfix"><span className="icon"></span>Buy Now</Link>
+                                        <Link href="contact" className="theme-btn btn-style-one clearfix"><span className="icon"></span>Contact Now</Link>
                                     </div>
                                     {/* <div className="icons-box" style={{display:'flex'}}>
                                         <img src="./assets/images/allimg/homepage/Banner1.webp" alt="" />
@@ -92,7 +92,7 @@ export default function Banner() {
                                     <h1><span className="first-letter">Authentic </span><span className="second-letter">Goli Soda  </span></h1>
                                     <div className="text">Refreshing, fizzy, and packed with nostalgia—enjoy the authentic taste of Goli Soda!</div>
                                     <div className="btns-box">
-                                        <Link href="contact" className="theme-btn btn-style-one clearfix"><span className="icon"></span>Buy Now</Link>
+                                        <Link href="contact" className="theme-btn btn-style-one clearfix"><span className="icon"></span>Contact Now</Link>
                                     </div>
                                     {/* <div className="icons-box" style={{display:'flex'}}>
                                         <img src="./assets/images/allimg/homepage/Banner2.webp" alt="" />
