@@ -17,14 +17,10 @@ export default function Menu() {
                         <li><Link href="index-4">Home Four</Link></li>
                     </ul> */}
                 </li>
-                <li className="dropdown">
+                {/* <li className="dropdown">
                     <Link href="about">About</Link>
-                    {/* <ul>
-                        <li><Link href="about">About</Link></li>
-                        <li><Link href="team">Team</Link></li>
-                        <li><Link href="restaurant">Restaurant</Link></li>
-                    </ul> */}
-                </li>
+                   
+                </li> */}
                 {/* <li className="dropdown">
                     <Link href="#">Menu</Link>
                     <ul>
@@ -52,9 +48,9 @@ export default function Menu() {
                         <li><Link href="/error">Not Found</Link></li>
                     </ul>
                 </li> */}
-                <li>
+                {/* <li>
                     <Link href="products"> Products</Link>
-                </li>
+                </li> */}
                 <li>
                     <Link href="contact">Contact</Link>
                 </li>

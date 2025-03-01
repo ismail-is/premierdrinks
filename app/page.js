@@ -14,12 +14,13 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1}>
+            <Layout headerStyle={1} footerStyle={3}>
                 <Banner />
                 <Juice/>
+                {/* <Fluid/> */}
                 <Beverage/>
                 <Deal/>
-                <Recipe/>
+                {/* <Recipe/> */}
                 {/* <Fluid/> */}
                 {/* <Testimonial /> */}
                 {/* <Blog /> */}

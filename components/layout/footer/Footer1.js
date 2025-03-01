@@ -19,7 +19,7 @@ export default function Footer1() {
 							{/*Footer Column*/}
                             <div className="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div className="footer-widget contact-widget">
-									<h6>Contact Us</h6>
+									<h6>Contact Uss</h6>
 									<div className="text">6Fifth Avenue 5501, Broadway, New York Morris Street London 1234</div>
 									<ul className="contact-list">
 										<li><span className="icon fa fa-send"></span>Your mail @ gmail.com</li>

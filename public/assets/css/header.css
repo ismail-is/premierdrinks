@@ -173,7 +173,7 @@
 
 .sticky-header .main-menu .navigation > li:hover > a,
 .sticky-header .main-menu .navigation > li.current > a{
-	color:#de9190;
+	color:#663333;
 	background-color:inherit !important;
 }
 
@@ -364,7 +364,7 @@
 	top:12px;
 	opacity:0;
 	font-size:10px;
-	color:#de9190;
+	color:#663333;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -381,7 +381,7 @@
 }
 
 .main-menu .navigation > li > ul > li:hover > a{
-	color:#de9190;
+	color:#663333;
 	padding-left:30px;
 }
 
@@ -457,7 +457,7 @@
 }
 
 .main-menu .navigation > li > ul > li > ul > li:hover > a{
-	color:#de9190;
+	color:#663333;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:before{
@@ -466,7 +466,7 @@
 	left:10px;
 	top:12px;
 	opacity:0;
-	color:#de9190;
+	color:#663333;
 	font-size:10px;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
@@ -480,7 +480,7 @@
 }
 
 .main-menu .navigation > li > ul > li > ul > li:hover > a{
-	color:#de9190;
+	color:#663333;
 	padding-left:30px;
 }
 
@@ -666,7 +666,7 @@
 	left:0px;
 	left:auto;
 	bottom:14px;
-	background-color:#de9190;
+	background-color:#663333;
 }
 
 .header-style-three .header-upper .logo-box{

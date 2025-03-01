@@ -83,12 +83,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/1.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/1.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/1.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/1.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -101,12 +101,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/2.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/2.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/2.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/2.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -137,12 +137,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/4.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/3.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/4.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/3.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -155,12 +155,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/5.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/4.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/5.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/4.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -173,12 +173,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/1.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/5.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/1.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/5.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -192,12 +192,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/2.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/6.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/2.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/6.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -210,12 +210,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/3.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/7.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/3.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/7.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -228,12 +228,12 @@ export default function AwardSlider1() {
                         <div className="gallery-block">
                             <div className="inner-box">
                                 <figure className="image-box">
-                                    <img src="assets/images/gallery/4.jpg" alt=""/>
+                                    <img src="./assets/images/allimg/golisoda/8.webp" alt=""/>
                                     {/* Overlay Box */}
                                     <div className="overlay-box">
                                         <div className="overlay-inner">
                                             <div className="content">
-                                                <a href="assets/images/gallery/4.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
+                                                <a href="./assets/images/allimg/golisoda/8.webp" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -242,23 +242,7 @@ export default function AwardSlider1() {
                         </div>
                         </SwiperSlide>
                         {/* Gallery Block */}
-                        <SwiperSlide>
-                        <div className="gallery-block">
-                            <div className="inner-box">
-                                <figure className="image-box">
-                                    <img src="assets/images/gallery/5.jpg" alt=""/>
-                                    {/* Overlay Box */}
-                                    <div className="overlay-box">
-                                        <div className="overlay-inner">
-                                            <div className="content">
-                                                <a href="assets/images/gallery/5.jpg" data-fancybox="gallery" data-caption="" className="icon flaticon-plus"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </figure>
-                            </div>
-                        </div>
-                        </SwiperSlide>
+                      
                 </Swiper>
 
         </>
